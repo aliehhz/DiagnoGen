@@ -79,7 +79,7 @@ Coming soon! (You can embed a GIF or link to a demo here)
 ----
 
 🧑‍💻 Author
-Made  by Alieh Hassanzadeh
+Made  by Alieh Hassanzadeh  
 📧 Alieh.h94@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/aliehhz)  
 📺 [YouTube: alieh hz](https://www.youtube.com/@aliehhz)
