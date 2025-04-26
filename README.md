@@ -32,13 +32,7 @@
 
 ## 📂 Project Structure
 
-# diagnogen/ │ ├── app.py 
-# Streamlit app ├── symptom_parser.py 
-# LLM or regex-based text-to-symptom extraction ├── diagnoser.py 
-# Symptom → Disease logic using SymCAT ├── response_generator.py 
-# Generates natural language responses ├── symcat_data/ 
-# Dataset files (CSV, JSON, etc.) ├── utils/ 
-# Helper functions └── requirements.txt
+
 
 ---
 
@@ -62,7 +56,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 🔑 Don’t forget to set your OpenAI API key in a .env file or securely in your code.
-
+````
 ----
 
 🎯 Future Ideas
