@@ -54,9 +54,11 @@ git clone https://github.com/yourusername/diagnogen.git
 cd diagnogen
 pip install -r requirements.txt
 streamlit run app.py
+````
+
 
 🔑 Don’t forget to set your OpenAI API key in a .env file or securely in your code.
-````
+
 ----
 
 🎯 Future Ideas
@@ -68,6 +70,7 @@ streamlit run app.py
 - Deploy on Hugging Face Spaces or Streamlit Cloud
 
 - Multi-language support
+  
 ----
 
 📸 Demo
@@ -77,8 +80,8 @@ Coming soon! (You can embed a GIF or link to a demo here)
 
 🧑‍💻 Author
 Made  by Alieh Hassanzadeh
-📧 Alieh.h94@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/aliehhz)
+📧 Alieh.h94@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/aliehhz)  
 📺 [YouTube: alieh hz](https://www.youtube.com/@aliehhz)
 
 -----
